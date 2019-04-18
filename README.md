@@ -1,6 +1,8 @@
-# Study-ChormExtension
-크롬확장프로그램 제작 스터디
+<h1 align="center">Study ChormExtension</h1>
+    
+> 크롬확장프로그램 제작 스터디
 
+### 자바스크립트 기초
 #### 출력 방식
 ```javascript
 console.log("Hello Javascript");
